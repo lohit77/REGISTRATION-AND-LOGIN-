@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lohit77
-- 👀 I’m interested in coding and Data science
-- 🌱 I’m currently learning Python and Data anaylsis
+- 👀 I’m interested in Coding and A.I
+- 🌱 I’m currently learning Data analysis and Machine Learning
 - 📫 You can reach me at lohitsainath.s96@gmail.com 
 
 <!---
